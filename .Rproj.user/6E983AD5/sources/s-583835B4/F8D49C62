@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540958028450.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3046493242",
+    "id" : "F8D49C62",
+    "lastKnownWriteTime" : 1540958724,
+    "last_content_update" : 1540958724306,
+    "path" : "D:/GitHub/bt/dh-1018/config.toml",
+    "project_path" : "config.toml",
+    "properties" : {
+        "cursorPosition" : "17,14",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "toml"
+}
